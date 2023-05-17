@@ -38,3 +38,4 @@ def test_debug_1():
 * N1. `pytest` (based on `test_cbd*.py`) is just for validating your program. The final grading will be made by other test cases.
 * N2. Submissions via GitHub Classroom will only be accepted. Submissions via LMS or any other means are not accepted.
 * N3. DO NOT change files in this repository except for `CondBreakDebugger.py`. Adding new files are allowed.
+* N4. Extra points are given if submitted within 30min.
